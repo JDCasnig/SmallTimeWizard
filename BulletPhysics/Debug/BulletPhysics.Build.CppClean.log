@@ -1,0 +1,369 @@
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bulletphysics.pdb
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bulletphysics.idb
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\idmath.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\multibodytree.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdefaultsoftbodysolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftbody.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftbodyconcavecollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftbodyhelpers.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftbodyrigidbodycollisionconfiguration.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftmultibodydynamicsworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftrigidcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftrigiddynamicsworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsoftsoftcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btalignedallocator.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexhull.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexhullcomputer.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgeometryutil.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btpolardecomposition.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btquickprof.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btserializer.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btthreads.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btvector3.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdiscretedynamicsworldmt.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btrigidbody.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsimpledynamicsworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsimulationislandmanagermt.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibody.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodyconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodyconstraintsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodydynamicsworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodyfixedconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodyjointlimitconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodyjointmotor.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodypoint2point.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultibodysliderconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdantziglcp.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btlemkealgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmlcpsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btraycastvehicle.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btwheelinfo.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\multibodytreeimpl.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\multibodytreeinitcache.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsubsimplexconvexcast.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btvoronoisimplexsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btkinematiccharactercontroller.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconetwistconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcontactconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btfixedconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgearconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgeneric6dofconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgeneric6dofspring2constraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgeneric6dofspringconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bthinge2constraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bthingeconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btnncgconstraintsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btpoint2pointconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsequentialimpulseconstraintsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsliderconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsolve2linearconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttypedconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btuniversalconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdiscretedynamicsworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgenericpoolallocator.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgimpactbvh.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgimpactcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgimpactquantizedbvh.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgimpactshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttriangleshapeex.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\gim_box_set.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\gim_contact.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\gim_memory.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\gim_tri_collision.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcontinuousconvexcollision.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexcast.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgjkconvexcast.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgjkepa2.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgjkepapenetrationdepthsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btgjkpairdetector.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btminkowskipenetrationdepthsolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btpersistentmanifold.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btpolyhedralcontactclipping.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btraycastcallback.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btheightfieldterrainshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btminkowskisumshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultimaterialtrianglemeshshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmultisphereshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btoptimizedbvh.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btpolyhedralconvexshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btscaledbvhtrianglemeshshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btshapehull.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsphereshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btstaticplaneshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btstridingmeshinterface.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttetrahedronshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttrianglebuffer.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttrianglecallback.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttriangleindexvertexarray.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttriangleindexvertexmaterialarray.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttrianglemesh.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bttrianglemeshshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btuniformscalingshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcontactprocessing.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btspheretrianglecollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btunionfind.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\spheretriangledetector.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btbox2dshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btboxshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btbvhtrianglemeshshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcapsuleshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcollisionshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcompoundshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconcaveshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconeshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvex2dshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexhullshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexinternalshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexpointcloudshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexpolyhedron.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvextrianglemeshshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcylindershape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btemptyshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btboxboxdetector.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcollisiondispatcher.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcollisionobject.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcollisionworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcollisionworldimporter.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcompoundcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcompoundcompoundcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvex2dconvex2dalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexconcavecollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexconvexalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btconvexplanecollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdefaultcollisionconfiguration.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btemptycollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btghostobject.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\bthashedsimplepaircache.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btinternaledgeutility.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btmanifoldresult.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsimulationislandmanager.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsphereboxcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btspherespherecollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3typedconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3convexhullcomputer.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3geometryutil.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3bulletfile.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3chunk.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3dna.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3file.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3serializer.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btaxissweep3.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btbroadphaseproxy.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdbvt.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdbvtbroadphase.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btdispatcher.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btoverlappingpaircache.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btquantizedbvh.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btsimplebroadphase.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btactivatingcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btbox2dbox2dcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\btboxboxcollisionalgorithm.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\cbulletfactory.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\cbulletphysicsworld.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\cbulletrigidbody.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\cbulletshape.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3dynamicbvh.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3dynamicbvhbroadphase.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3overlappingpaircache.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3convexutility.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3cpunarrowphase.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3alignedallocator.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3logging.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3vector3.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3cpurigidbodypipeline.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3fixedconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3generic6dofconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3pgsjacobisolver.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\b3point2pointconstraint.obj
+c:\users\jmc\downloads\physicswork\bulletphysics\debug\clew.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.pdb
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.idb
+c:\data\group project\jekyloid\bulletphysics\debug\idmath.obj
+c:\data\group project\jekyloid\bulletphysics\debug\multibodytree.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdefaultsoftbodysolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftbody.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftbodyconcavecollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftbodyhelpers.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftbodyrigidbodycollisionconfiguration.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftmultibodydynamicsworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftrigidcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftrigiddynamicsworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsoftsoftcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btalignedallocator.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexhull.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexhullcomputer.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgeometryutil.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btpolardecomposition.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btquickprof.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btserializer.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btthreads.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btvector3.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdiscretedynamicsworldmt.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btrigidbody.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsimpledynamicsworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsimulationislandmanagermt.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibody.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodyconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodyconstraintsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodydynamicsworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodyfixedconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodyjointlimitconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodyjointmotor.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodypoint2point.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultibodysliderconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdantziglcp.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btlemkealgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmlcpsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btraycastvehicle.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btwheelinfo.obj
+c:\data\group project\jekyloid\bulletphysics\debug\multibodytreeimpl.obj
+c:\data\group project\jekyloid\bulletphysics\debug\multibodytreeinitcache.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsubsimplexconvexcast.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btvoronoisimplexsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btkinematiccharactercontroller.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconetwistconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcontactconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btfixedconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgearconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgeneric6dofconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgeneric6dofspring2constraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgeneric6dofspringconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bthinge2constraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bthingeconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btnncgconstraintsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btpoint2pointconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsequentialimpulseconstraintsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsliderconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsolve2linearconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttypedconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btuniversalconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdiscretedynamicsworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgenericpoolallocator.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgimpactbvh.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgimpactcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgimpactquantizedbvh.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgimpactshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttriangleshapeex.obj
+c:\data\group project\jekyloid\bulletphysics\debug\gim_box_set.obj
+c:\data\group project\jekyloid\bulletphysics\debug\gim_contact.obj
+c:\data\group project\jekyloid\bulletphysics\debug\gim_memory.obj
+c:\data\group project\jekyloid\bulletphysics\debug\gim_tri_collision.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcontinuousconvexcollision.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexcast.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgjkconvexcast.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgjkepa2.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgjkepapenetrationdepthsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btgjkpairdetector.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btminkowskipenetrationdepthsolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btpersistentmanifold.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btpolyhedralcontactclipping.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btraycastcallback.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btheightfieldterrainshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btminkowskisumshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultimaterialtrianglemeshshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmultisphereshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btoptimizedbvh.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btpolyhedralconvexshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btscaledbvhtrianglemeshshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btshapehull.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsphereshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btstaticplaneshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btstridingmeshinterface.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttetrahedronshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttrianglebuffer.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttrianglecallback.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttriangleindexvertexarray.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttriangleindexvertexmaterialarray.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttrianglemesh.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bttrianglemeshshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btuniformscalingshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcontactprocessing.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btspheretrianglecollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btunionfind.obj
+c:\data\group project\jekyloid\bulletphysics\debug\spheretriangledetector.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btbox2dshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btboxshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btbvhtrianglemeshshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcapsuleshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcollisionshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcompoundshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconcaveshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconeshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvex2dshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexhullshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexinternalshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexpointcloudshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexpolyhedron.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvextrianglemeshshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcylindershape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btemptyshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btboxboxdetector.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcollisiondispatcher.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcollisionobject.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcollisionworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcollisionworldimporter.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcompoundcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcompoundcompoundcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvex2dconvex2dalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexconcavecollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexconvexalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btconvexplanecollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdefaultcollisionconfiguration.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btemptycollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btghostobject.obj
+c:\data\group project\jekyloid\bulletphysics\debug\bthashedsimplepaircache.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btinternaledgeutility.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btmanifoldresult.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsimulationislandmanager.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsphereboxcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btspherespherecollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3typedconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3convexhullcomputer.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3geometryutil.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3bulletfile.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3chunk.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3dna.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3file.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3serializer.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btaxissweep3.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btbroadphaseproxy.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdbvt.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdbvtbroadphase.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btdispatcher.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btoverlappingpaircache.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btquantizedbvh.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btsimplebroadphase.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btactivatingcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btbox2dbox2dcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\btboxboxcollisionalgorithm.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3dynamicbvh.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3dynamicbvhbroadphase.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3overlappingpaircache.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3convexutility.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3cpunarrowphase.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3alignedallocator.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3logging.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3vector3.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3cpurigidbodypipeline.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3fixedconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3generic6dofconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3pgsjacobisolver.obj
+c:\data\group project\jekyloid\bulletphysics\debug\b3point2pointconstraint.obj
+c:\data\group project\jekyloid\bulletphysics\debug\cbulletfactory.obj
+c:\data\group project\jekyloid\bulletphysics\debug\cbulletphysicsworld.obj
+c:\data\group project\jekyloid\bulletphysics\debug\cbulletrigidbody.obj
+c:\data\group project\jekyloid\bulletphysics\debug\cbulletshape.obj
+c:\data\group project\jekyloid\bulletphysics\debug\clew.obj
+c:\users\jmc\downloads\physicswork\debug\bulletphysics.lib
+c:\data\group project\jekyloid\debug\bulletphysics.lib
+c:\data\group project\jekyloid\debug\bulletphysics.pdb
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.tlog\cl.command.1.tlog
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.tlog\cl.read.1.tlog
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.tlog\cl.write.1.tlog
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.tlog\lib-link.read.1.tlog
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.tlog\lib-link.write.1.tlog
+c:\data\group project\jekyloid\bulletphysics\debug\bulletphysics.tlog\lib.command.1.tlog

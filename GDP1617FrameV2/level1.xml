@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<GameObjects>
+<Player>
+
+	<position x="0" y="20" z="0">
+	</position>
+	<Mesh name="wizard.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="false">
+	</PhysicsEnabled>
+</Player>
+<TestBox>
+<position x="13" y="12" z="2">
+</position>
+</TestBox>
+<TestBox>
+<!--<position x="2" y="20" z="2">
+</position>
+</TestBox>
+<FloorPanel>
+	<position x="1" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="1" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="0" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="0" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="2" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="2" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="3" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="3" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="1" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="1" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="0" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="0" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="2" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="2" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="3" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="3" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="11" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="11" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="10" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="10" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="12" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="12" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="13" y="10" z="1">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="13" y="10" z="0">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="11" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="11" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="10" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="10" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="12" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="12" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="13" y="10" z="3">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<FloorPanel>
+	<position x="13" y="10" z="2">
+	</position>
+		<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</FloorPanel>
+<Target>
+	<position x="-10" y="3" z="-35">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-11" y="3" z="-35">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-11" y="4" z="-35">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+
+<Target>
+	<position x="10" y="4" z="-50">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="10" y="3" z="-50">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="9" y="3" z="-50">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="9" y="4" z="-50">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+
+<Target>
+	<position x="3" y="8" z="-85">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="2" y="8" z="-85">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="1" y="8" z="-85">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="2" y="9" z="-85">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+
+<Target>
+	<position x="-12" y="10" z="-90">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+
+
+<Target>
+	<position x="12" y="10" z="-90">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+
+<Target>
+	<position x="12" y="4" z="-90">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>
+<Target>
+	<position x="-12" y="4" z="-90">
+	</position>
+	<Mesh name="Isoshphere_xyz_InvertedNormals.ply">
+	</Mesh>
+	<Scale Size="1">
+	</Scale>
+	<PhysicsEnabled staticbody="true">
+	</PhysicsEnabled>
+</Target>-->
+</GameObjects>
