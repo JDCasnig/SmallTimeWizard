@@ -509,7 +509,7 @@ bool LoadObjectsIntoScene( std::vector< cGameObject* > &vec_pGOs, std::string sc
 
 	camera1->cameraStyle = eCameraStyle::Attached;
 	//camera1->AttachToGameObject(::gPlayer);
-	camera1->cameraOffset = glm::vec3(0.f, 2.f, 5.f);
+	camera1->cameraOffset = glm::vec3(0.f, 10.f, .2f);
 
 
 

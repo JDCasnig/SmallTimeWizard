@@ -1,0 +1,7 @@
+﻿  cJPhysicsFactory.cpp
+cJPhysicsFactory.cpp(42): warning C4244: 'argument': conversion from 'nPhysics::eShapeType' to 'float', possible loss of data
+  cJPhysicsWorld.cpp
+  cJRigidBody.cpp
+  cJShape.cpp
+  cJSoftBody.cpp
+  JPhysics2.0.vcxproj -> C:\Users\JMC\workspace\ShootingGallery\Release\JPhysics2.0.lib

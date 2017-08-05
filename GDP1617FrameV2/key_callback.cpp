@@ -254,7 +254,7 @@ void CreateFireBall()
 		pFireBall->bHasRigidBody = true;
 		nPhysics::cRigidBodyDef bodyDef;
 
-		bodyDef.position = ::gPlayer->bodyDef->position - glm::vec3(0.f, 0.f, 2.f)*gPlayer->bodyDef->qOrientation + glm::vec3(0.f, .5f, 0.f);
+		bodyDef.position = ::gPlayer->bodyDef->position - glm::vec3(0.f, 0.f, .25f)*gPlayer->bodyDef->qOrientation + glm::vec3(0.f, .5f, 0.f);
 		bodyDef.staticBody = false;
 		bodyDef.mass = 1.0f;
 		bodyDef.velocity = -glm::vec3(0.f, 0.f, 20.f)*gPlayer->bodyDef->qOrientation;
@@ -336,7 +336,7 @@ void CreateGravityBall()
 		gravityBall->amountRefractive = 0.1f;
 		nPhysics::cRigidBodyDef bodyDef;
 
-		bodyDef.position = ::gPlayer->bodyDef->position - glm::vec3(0.f, 0.f, 2.f)*gPlayer->bodyDef->qOrientation + glm::vec3(0.f,.5f,0.f);
+		bodyDef.position = ::gPlayer->bodyDef->position - glm::vec3(0.f, 0.f, .25f)*gPlayer->bodyDef->qOrientation + glm::vec3(0.f,.5f,0.f);
 		bodyDef.staticBody = false;
 		bodyDef.mass = 1.0f;
 
